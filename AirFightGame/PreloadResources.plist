@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sounds</key>
+	<array>
+		<string>explosion.mp3</string>
+		<string>shoot.mp3</string>
+	</array>
+	<key>SpriteSheets</key>
+	<array>
+		<string>gameArts.plist</string>
+	</array>
+	<key>Musics</key>
+	<array>
+		<string>shoot.mp3</string>
+	</array>
+</dict>
+</plist>
